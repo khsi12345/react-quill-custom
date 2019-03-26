@@ -1,3 +1,11 @@
+# GETTING_STARTED
+```
+ git clone https://github.com/snrntpa2z/react-quill.git
+ cd react-quill
+ yarn install
+ yarn start
+ ```
+
 # React - Quill ( Customizing )
 
 - 글꼴 추가
