@@ -2,7 +2,6 @@
 ```
  git clone https://github.com/snrntpa2z/react-quill.git
  cd react-quill
- yarn install
  yarn start
  ```
 
