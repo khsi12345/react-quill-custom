@@ -7,8 +7,8 @@
 
 # React - Quill ( Customizing )
 
-- 글꼴 추가
-- 글자 크기 추가
+- 글꼴 추가 ( 돋움체 , 굴림체 , 바탕체 , 나눔고딕체 )
+- 글자 크기 추가 ( 8pt , 9pt, 10pt, 11pt, 12pt, 14pt, 18pt , 24pt, 36pt )
 - 이미지 크기 조절 추가
 
 # 이미지 서버로 업로드 후 Img Path 빼는 방법
@@ -82,3 +82,4 @@
       imageResize: true
     };
 ```
+
