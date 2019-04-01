@@ -1,7 +1,7 @@
 # Getting started
 ```
- git clone https://github.com/snrntpa2z/react-quill.git
- cd react-quill
+ git clone https://github.com/snrntpa2z/react-quill-custom.git
+ cd react-quill-custom
  yarn start
  ```
 
